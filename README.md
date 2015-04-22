@@ -10,3 +10,8 @@ Please read the FAQ: http://code.google.com/p/greasefire/wiki/FAQ
 Releases are available on the Firefox Add-ons site: https://addons.mozilla.org/en-US/firefox/addon/8352
 
 Discussion forum on userscripts.org: http://userscripts.org/forums/5
+
+#### Todo
+- [ ] update system try when indxes is updated (to show new scripts)
+- [ ] Provide link to open script on userscripts.org
+- [ ] global excludes
